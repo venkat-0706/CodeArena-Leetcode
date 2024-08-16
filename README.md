@@ -6,9 +6,9 @@ Tackling over 300 LeetCode problems has been an intensive yet rewarding experien
 # Key Areas Covered:
 
 * Data Structures: Arrays, Linked Lists, Stacks, Queues, Hash Tables, Trees, Tries, Graphs, Heaps
-* 
+ 
 * Algorithms: Sorting, Searching, Dynamic Programming, Backtracking, Greedy, Divide and Conquer, Bit Manipulation
-* 
+  
 * Other Topics: String Manipulation, Math, Geometry, Design
 
 # Learning Process:
