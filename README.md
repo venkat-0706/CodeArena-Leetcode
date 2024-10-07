@@ -3,6 +3,9 @@ https://leetcode.com/venkat-0706/
 
 Tackling over 300 LeetCode problems has been an intensive yet rewarding experience. It's significantly enhanced my problem-solving abilities, data structure understanding, and algorithm proficiency.
 
+# Leetcode Stats
+![venkat-0706](https://github.com/user-attachments/assets/7ef3f1c8-f2ac-4730-be1f-25a727f794c8)
+
 # You can find all of my solutions
 https://leetcode.com/submissions/#/1
 
