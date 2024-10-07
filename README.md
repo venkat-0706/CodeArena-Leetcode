@@ -1,13 +1,4 @@
-## Solving 300+ LeetCode Problems: A BTech Computer Science Student's Journey
-https://leetcode.com/venkat-0706/
-
-Tackling over 300 LeetCode problems has been an intensive yet rewarding experience. It's significantly enhanced my problem-solving abilities, data structure understanding, and algorithm proficiency.
-
-# Leetcode Stats
-![venkat-0706](https://github.com/user-attachments/assets/7ef3f1c8-f2ac-4730-be1f-25a727f794c8)
-
-# You can find all of my solutions
-https://leetcode.com/submissions/#/1
+## Leetcode Coding Journey
 
 # Key Areas Covered:
 
@@ -40,5 +31,17 @@ https://leetcode.com/submissions/#/1
 * Interview Preparation: LeetCode problems closely align with common interview questions, increasing my confidence for technical assessments.
 
 While the journey was demanding, the results have been invaluable. LeetCode has been an indispensable tool in my development as a computer science student and aspiring software engineer. 
+
+
+## Solving 300+ LeetCode Problems: A BTech Computer Science Student's Journey
+https://leetcode.com/venkat-0706/
+
+Tackling over 300 LeetCode problems has been an intensive yet rewarding experience. It's significantly enhanced my problem-solving abilities, data structure understanding, and algorithm proficiency.
+
+# Leetcode Stats
+![venkat-0706](https://github.com/user-attachments/assets/7ef3f1c8-f2ac-4730-be1f-25a727f794c8)
+
+# You can find all of my solutions
+https://leetcode.com/submissions/#/1
 
 
