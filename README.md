@@ -3,6 +3,9 @@ https://leetcode.com/venkat-0706/
 
 Tackling over 300 LeetCode problems has been an intensive yet rewarding experience. It's significantly enhanced my problem-solving abilities, data structure understanding, and algorithm proficiency.
 
+# You can find all of my solutions
+https://leetcode.com/submissions/#/1
+
 # Key Areas Covered:
 
 * Data Structures: Arrays, Linked Lists, Stacks, Queues, Hash Tables, Trees, Tries, Graphs, Heaps
