@@ -71,6 +71,7 @@ https://leetcode.com/submissions/#/1
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/venkat-0706/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/venkat-0706/leetcode/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/venkat-0706/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/venkat-0706/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -88,4 +89,8 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/venkat-0706/leetcode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/venkat-0706/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
