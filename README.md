@@ -104,9 +104,14 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/venkat-0706/leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/venkat-0706/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/venkat-0706/leetcode/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/venkat-0706/leetcode/tree/master/0069-sqrtx) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/venkat-0706/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
