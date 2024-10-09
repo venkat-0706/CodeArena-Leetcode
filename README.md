@@ -53,11 +53,13 @@ https://leetcode.com/submissions/#/1
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/venkat-0706/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/venkat-0706/leetcode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/venkat-0706/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/venkat-0706/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/venkat-0706/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/venkat-0706/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/venkat-0706/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkat-0706/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/venkat-0706/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
