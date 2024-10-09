@@ -100,4 +100,8 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkat-0706/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/venkat-0706/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
