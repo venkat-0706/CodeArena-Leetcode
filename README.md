@@ -117,6 +117,7 @@ https://leetcode.com/submissions/#/1
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/venkat-0706/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/venkat-0706/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/venkat-0706/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/venkat-0706/leetcode/tree/master/0069-sqrtx) |
@@ -128,9 +129,14 @@ https://leetcode.com/submissions/#/1
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/venkat-0706/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/venkat-0706/leetcode/tree/master/0050-powx-n) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/venkat-0706/leetcode/tree/master/1002-maximum-width-ramp) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/venkat-0706/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
