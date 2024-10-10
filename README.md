@@ -61,6 +61,7 @@ https://leetcode.com/submissions/#/1
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/venkat-0706/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/venkat-0706/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/venkat-0706/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkat-0706/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -95,6 +96,7 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/venkat-0706/leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/venkat-0706/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/venkat-0706/leetcode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -139,4 +141,8 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/venkat-0706/leetcode/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/venkat-0706/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
