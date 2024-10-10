@@ -96,6 +96,7 @@ https://leetcode.com/submissions/#/1
 | [0048-rotate-image](https://github.com/venkat-0706/leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/venkat-0706/leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/venkat-0706/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/venkat-0706/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/venkat-0706/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkat-0706/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/venkat-0706/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -170,10 +171,12 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/venkat-0706/leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/venkat-0706/leetcode/tree/master/0078-subsets) |
 ## Backtracking
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/venkat-0706/leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/venkat-0706/leetcode/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
