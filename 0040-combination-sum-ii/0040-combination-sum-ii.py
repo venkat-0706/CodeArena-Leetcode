@@ -1,22 +1,20 @@
-
 class Solution:
-    def combinationSum2(self, cand, target):
-        cand.sort()
+    def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
+        candidates.sort()
         res = []
-        path = []
-        self.dfs(cand, 0, target, path, res)
+
+        def dfs(target, start, comb):
+            if target < 0:
+                return
+            if target == 0:
+                res.append(comb)
+                return
+            for i in range(start, len(candidates)):
+                if i > start and candidates[i] == candidates[i-1]:
+                    continue
+                if candidates[i] > target:
+                    break
+                dfs(target-candidates[i], i+1, comb+[candidates[i]])
+
+        dfs(target, 0, [])
         return res
-    
-    def dfs(self, cand, cur, target, path, res):
-        if target == 0:
-            res.append(path.copy())
-            return
-        if target < 0:
-            return
-        
-        for i in range(cur, len(cand)):
-            if i > cur and cand[i] == cand[i - 1]:  # Skip duplicates
-                continue
-            path.append(cand[i])
-            self.dfs(cand, i + 1, target - cand[i], path, res)
-            path.pop()  # Backtrack
