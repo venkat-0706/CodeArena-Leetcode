@@ -81,6 +81,7 @@ https://leetcode.com/submissions/#/1
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/venkat-0706/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/venkat-0706/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/venkat-0706/leetcode/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/venkat-0706/leetcode/tree/master/0055-jump-game) |
@@ -93,6 +94,7 @@ https://leetcode.com/submissions/#/1
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/venkat-0706/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/venkat-0706/leetcode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
