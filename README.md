@@ -142,6 +142,7 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/venkat-0706/leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/venkat-0706/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/venkat-0706/leetcode/tree/master/0050-powx-n) |
 ## Monotonic Stack
 |  |
@@ -151,6 +152,7 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/venkat-0706/leetcode/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/venkat-0706/leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Sliding Window
 |  |
 | ------- |
