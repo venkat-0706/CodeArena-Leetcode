@@ -65,6 +65,7 @@ https://leetcode.com/submissions/#/1
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/venkat-0706/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/venkat-0706/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0043-multiply-strings](https://github.com/venkat-0706/leetcode/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/venkat-0706/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/venkat-0706/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkat-0706/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -132,6 +133,7 @@ https://leetcode.com/submissions/#/1
 | [0007-reverse-integer](https://github.com/venkat-0706/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/venkat-0706/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/venkat-0706/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/venkat-0706/leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/venkat-0706/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/venkat-0706/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/venkat-0706/leetcode/tree/master/0189-rotate-array) |
@@ -167,4 +169,8 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/venkat-0706/leetcode/tree/master/0040-combination-sum-ii) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/venkat-0706/leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
