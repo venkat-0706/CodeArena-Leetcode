@@ -130,6 +130,7 @@ https://leetcode.com/submissions/#/1
 | [0002-add-two-numbers](https://github.com/venkat-0706/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/venkat-0706/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/venkat-0706/leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/venkat-0706/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/venkat-0706/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/venkat-0706/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/venkat-0706/leetcode/tree/master/0189-rotate-array) |
@@ -157,4 +158,8 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/venkat-0706/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/venkat-0706/leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
