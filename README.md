@@ -61,6 +61,7 @@ https://leetcode.com/submissions/#/1
 | [0151-reverse-words-in-a-string](https://github.com/venkat-0706/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/venkat-0706/leetcode/tree/master/0189-rotate-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/venkat-0706/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/venkat-0706/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
 | ------- |
@@ -85,6 +86,7 @@ https://leetcode.com/submissions/#/1
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/venkat-0706/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkat-0706/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/venkat-0706/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/venkat-0706/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Array
 |  |
 | ------- |
@@ -106,6 +108,7 @@ https://leetcode.com/submissions/#/1
 | [0189-rotate-array](https://github.com/venkat-0706/leetcode/tree/master/0189-rotate-array) |
 | [1002-maximum-width-ramp](https://github.com/venkat-0706/leetcode/tree/master/1002-maximum-width-ramp) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/venkat-0706/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/venkat-0706/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +128,7 @@ https://leetcode.com/submissions/#/1
 | [0018-4sum](https://github.com/venkat-0706/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/venkat-0706/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/venkat-0706/leetcode/tree/master/0169-majority-element) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/venkat-0706/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Counting
 |  |
 | ------- |
@@ -196,6 +200,7 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/venkat-0706/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/venkat-0706/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Trie
 |  |
 | ------- |
@@ -211,4 +216,8 @@ https://leetcode.com/submissions/#/1
 | [0584-find-customer-referee](https://github.com/venkat-0706/leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/venkat-0706/leetcode/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/venkat-0706/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Prefix Sum
+|  |
+| ------- |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/venkat-0706/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
