@@ -208,4 +208,5 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/venkat-0706/leetcode/tree/master/0185-department-top-three-salaries) |
+| [1908-recyclable-and-low-fat-products](https://github.com/venkat-0706/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
