@@ -204,4 +204,8 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/venkat-0706/leetcode/tree/master/0140-word-break-ii) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/venkat-0706/leetcode/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
