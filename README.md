@@ -62,6 +62,7 @@ https://leetcode.com/submissions/#/1
 | [0189-rotate-array](https://github.com/venkat-0706/leetcode/tree/master/0189-rotate-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/venkat-0706/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/venkat-0706/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3195-separate-black-and-white-balls](https://github.com/venkat-0706/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
 | ------- |
@@ -73,6 +74,7 @@ https://leetcode.com/submissions/#/1
 | [0151-reverse-words-in-a-string](https://github.com/venkat-0706/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkat-0706/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/venkat-0706/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3195-separate-black-and-white-balls](https://github.com/venkat-0706/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
 | ------- |
@@ -89,6 +91,7 @@ https://leetcode.com/submissions/#/1
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/venkat-0706/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/venkat-0706/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/venkat-0706/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/venkat-0706/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Array
 |  |
 | ------- |
