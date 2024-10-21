@@ -76,6 +76,7 @@ https://leetcode.com/submissions/#/1
 | [1197-parsing-a-boolean-expression](https://github.com/venkat-0706/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/venkat-0706/leetcode/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/venkat-0706/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/venkat-0706/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/venkat-0706/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3195-separate-black-and-white-balls](https://github.com/venkat-0706/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
@@ -131,6 +132,7 @@ https://leetcode.com/submissions/#/1
 | [0140-word-break-ii](https://github.com/venkat-0706/leetcode/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/venkat-0706/leetcode/tree/master/0169-majority-element) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/venkat-0706/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/venkat-0706/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/venkat-0706/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Divide and Conquer
 |  |
@@ -209,6 +211,7 @@ https://leetcode.com/submissions/#/1
 | [0040-combination-sum-ii](https://github.com/venkat-0706/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/venkat-0706/leetcode/tree/master/0078-subsets) |
 | [0140-word-break-ii](https://github.com/venkat-0706/leetcode/tree/master/0140-word-break-ii) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/venkat-0706/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/venkat-0706/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Simulation
 |  |
