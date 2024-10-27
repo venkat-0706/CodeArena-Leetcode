@@ -122,6 +122,7 @@ https://leetcode.com/submissions/#/1
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/venkat-0706/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1002-maximum-width-ramp](https://github.com/venkat-0706/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/venkat-0706/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/venkat-0706/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/venkat-0706/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/venkat-0706/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/venkat-0706/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -164,6 +165,7 @@ https://leetcode.com/submissions/#/1
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkat-0706/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/venkat-0706/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0140-word-break-ii](https://github.com/venkat-0706/leetcode/tree/master/0140-word-break-ii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/venkat-0706/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Math
 |  |
 | ------- |
@@ -227,6 +229,7 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/venkat-0706/leetcode/tree/master/0048-rotate-image) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/venkat-0706/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
