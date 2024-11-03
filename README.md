@@ -72,6 +72,7 @@ https://leetcode.com/submissions/#/1
 | [0125-valid-palindrome](https://github.com/venkat-0706/leetcode/tree/master/0125-valid-palindrome) |
 | [0140-word-break-ii](https://github.com/venkat-0706/leetcode/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/venkat-0706/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0812-rotate-string](https://github.com/venkat-0706/leetcode/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkat-0706/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/venkat-0706/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/venkat-0706/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -300,4 +301,8 @@ https://leetcode.com/submissions/#/1
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/venkat-0706/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/venkat-0706/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/venkat-0706/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/venkat-0706/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
