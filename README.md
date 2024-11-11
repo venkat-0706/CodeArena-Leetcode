@@ -105,6 +105,7 @@ https://leetcode.com/submissions/#/1
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/venkat-0706/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/venkat-0706/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/venkat-0706/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/venkat-0706/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/venkat-0706/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Array
 |  |
@@ -138,6 +139,7 @@ https://leetcode.com/submissions/#/1
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/venkat-0706/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2586-longest-square-streak-in-an-array](https://github.com/venkat-0706/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/venkat-0706/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/venkat-0706/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/venkat-0706/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/venkat-0706/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Hash Table
@@ -198,6 +200,7 @@ https://leetcode.com/submissions/#/1
 | [0069-sqrtx](https://github.com/venkat-0706/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/venkat-0706/leetcode/tree/master/0189-rotate-array) |
 | [0670-maximum-swap](https://github.com/venkat-0706/leetcode/tree/master/0670-maximum-swap) |
+| [2716-prime-subtraction-operation](https://github.com/venkat-0706/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Binary Search
 |  |
 | ------- |
@@ -205,6 +208,7 @@ https://leetcode.com/submissions/#/1
 | [0069-sqrtx](https://github.com/venkat-0706/leetcode/tree/master/0069-sqrtx) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/venkat-0706/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/venkat-0706/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/venkat-0706/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Recursion
 |  |
 | ------- |
@@ -321,4 +325,8 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/venkat-0706/leetcode/tree/master/0812-rotate-string) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/venkat-0706/leetcode/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
