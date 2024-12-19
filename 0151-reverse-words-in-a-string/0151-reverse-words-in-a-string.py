@@ -5,5 +5,6 @@ class Solution:
         res = []
         for i in range(n-1,-1,-1):
             res.append(arr[i])
-        return ' '.join(res)
+        return " ".join(res)
+
         
