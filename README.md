@@ -164,6 +164,7 @@ https://leetcode.com/submissions/#/1
 | [1002-maximum-width-ramp](https://github.com/venkat-0706/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/venkat-0706/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/venkat-0706/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/venkat-0706/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/venkat-0706/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/venkat-0706/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/venkat-0706/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -211,6 +212,7 @@ https://leetcode.com/submissions/#/1
 | [0169-majority-element](https://github.com/venkat-0706/leetcode/tree/master/0169-majority-element) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/venkat-0706/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/venkat-0706/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/venkat-0706/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/venkat-0706/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/venkat-0706/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/venkat-0706/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
