@@ -316,6 +316,7 @@ https://leetcode.com/submissions/#/1
 | [0002-add-two-numbers](https://github.com/venkat-0706/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/venkat-0706/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/venkat-0706/leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/venkat-0706/leetcode/tree/master/0206-reverse-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/venkat-0706/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/venkat-0706/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Monotonic Stack
@@ -331,6 +332,7 @@ https://leetcode.com/submissions/#/1
 | ------- |
 | [0002-add-two-numbers](https://github.com/venkat-0706/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/venkat-0706/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/venkat-0706/leetcode/tree/master/0206-reverse-linked-list) |
 ## Sliding Window
 |  |
 | ------- |
