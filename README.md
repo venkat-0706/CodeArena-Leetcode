@@ -114,6 +114,7 @@ https://leetcode.com/submissions/#/1
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/venkat-0706/leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/venkat-0706/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/venkat-0706/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/venkat-0706/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/venkat-0706/leetcode/tree/master/3451-string-compression-iii) |
 ## Stack
 |  |
@@ -221,6 +222,7 @@ https://leetcode.com/submissions/#/1
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/venkat-0706/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/venkat-0706/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3291-find-if-array-can-be-sorted](https://github.com/venkat-0706/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/venkat-0706/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/venkat-0706/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/venkat-0706/leetcode/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/venkat-0706/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -442,6 +444,7 @@ https://leetcode.com/submissions/#/1
 | ------- |
 | [0140-word-break-ii](https://github.com/venkat-0706/leetcode/tree/master/0140-word-break-ii) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/venkat-0706/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/venkat-0706/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Memoization
 |  |
 | ------- |
@@ -526,6 +529,7 @@ https://leetcode.com/submissions/#/1
 | [0812-rotate-string](https://github.com/venkat-0706/leetcode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/venkat-0706/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/venkat-0706/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/venkat-0706/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -574,4 +578,12 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/venkat-0706/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/venkat-0706/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/venkat-0706/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
