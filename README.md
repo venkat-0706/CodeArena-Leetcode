@@ -87,6 +87,7 @@ https://leetcode.com/submissions/#/1
 | [0345-reverse-vowels-of-a-string](https://github.com/venkat-0706/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/venkat-0706/leetcode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/venkat-0706/leetcode/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/venkat-0706/leetcode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkat-0706/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/venkat-0706/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/venkat-0706/leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -177,6 +178,7 @@ https://leetcode.com/submissions/#/1
 | [0780-max-chunks-to-make-sorted](https://github.com/venkat-0706/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/venkat-0706/leetcode/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/venkat-0706/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0952-word-subsets](https://github.com/venkat-0706/leetcode/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/venkat-0706/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1025-minimum-cost-for-tickets](https://github.com/venkat-0706/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/venkat-0706/leetcode/tree/master/1063-best-sightseeing-pair) |
@@ -239,6 +241,7 @@ https://leetcode.com/submissions/#/1
 | [0140-word-break-ii](https://github.com/venkat-0706/leetcode/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/venkat-0706/leetcode/tree/master/0169-majority-element) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/venkat-0706/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0952-word-subsets](https://github.com/venkat-0706/leetcode/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/venkat-0706/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/venkat-0706/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/venkat-0706/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
