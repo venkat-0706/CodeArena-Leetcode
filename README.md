@@ -242,6 +242,7 @@ https://leetcode.com/submissions/#/1
 | [2868-continuous-subarrays](https://github.com/venkat-0706/leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/venkat-0706/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/venkat-0706/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/venkat-0706/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/venkat-0706/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/venkat-0706/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/venkat-0706/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -302,6 +303,7 @@ https://leetcode.com/submissions/#/1
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/venkat-0706/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/venkat-0706/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/venkat-0706/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/venkat-0706/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/venkat-0706/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
 |  |
@@ -648,6 +650,7 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/venkat-0706/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/venkat-0706/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
 | ------- |
