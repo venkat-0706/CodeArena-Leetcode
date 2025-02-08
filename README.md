@@ -177,6 +177,7 @@ https://leetcode.com/submissions/#/1
 | [0140-word-break-ii](https://github.com/venkat-0706/leetcode/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/venkat-0706/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/venkat-0706/leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/venkat-0706/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/venkat-0706/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/venkat-0706/leetcode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/venkat-0706/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -269,6 +270,7 @@ https://leetcode.com/submissions/#/1
 | [0003-longest-substring-without-repeating-characters](https://github.com/venkat-0706/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0140-word-break-ii](https://github.com/venkat-0706/leetcode/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/venkat-0706/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/venkat-0706/leetcode/tree/master/0217-contains-duplicate) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/venkat-0706/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0952-word-subsets](https://github.com/venkat-0706/leetcode/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/venkat-0706/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -308,6 +310,7 @@ https://leetcode.com/submissions/#/1
 | [0018-4sum](https://github.com/venkat-0706/leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/venkat-0706/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/venkat-0706/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/venkat-0706/leetcode/tree/master/0217-contains-duplicate) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/venkat-0706/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/venkat-0706/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/venkat-0706/leetcode/tree/master/0948-sort-an-array) |
