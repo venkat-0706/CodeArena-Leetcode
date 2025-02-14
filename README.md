@@ -207,6 +207,7 @@ https://leetcode.com/submissions/#/1
 | [1396-count-servers-that-communicate](https://github.com/venkat-0706/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/venkat-0706/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/venkat-0706/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/venkat-0706/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/venkat-0706/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/venkat-0706/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/venkat-0706/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -381,6 +382,7 @@ https://leetcode.com/submissions/#/1
 | [0189-rotate-array](https://github.com/venkat-0706/leetcode/tree/master/0189-rotate-array) |
 | [0670-maximum-swap](https://github.com/venkat-0706/leetcode/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/venkat-0706/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1477-product-of-the-last-k-numbers](https://github.com/venkat-0706/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/venkat-0706/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/venkat-0706/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -554,6 +556,7 @@ https://leetcode.com/submissions/#/1
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/venkat-0706/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/venkat-0706/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1477-product-of-the-last-k-numbers](https://github.com/venkat-0706/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/venkat-0706/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/venkat-0706/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/venkat-0706/leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -743,5 +746,10 @@ https://leetcode.com/submissions/#/1
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/venkat-0706/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/venkat-0706/leetcode/tree/master/2434-design-a-number-container-system) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/venkat-0706/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
