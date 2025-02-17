@@ -1,7 +1,8 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        ans = 0
-        for num in nums:
-            ans = ans ^ num
-        return ans
+        n = len(nums)
+        count = 0
+        for i in nums:
+            count ^= i
+        return count
         
