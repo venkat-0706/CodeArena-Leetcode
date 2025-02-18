@@ -2,9 +2,9 @@ class Solution:
     def reverseWords(self, s: str) -> str:
         arr = s.split()
         n = len(arr)
-        res = []
+        temp = []
         for i in range(n-1,-1,-1):
-            res.append(arr[i])
-        return " ".join(res)
-
+            temp.append(arr[i])
+        return ' '.join(temp)
+        
         
