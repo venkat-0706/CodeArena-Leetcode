@@ -459,6 +459,7 @@ https://leetcode.com/submissions/#/1
 | ------- |
 | [0002-add-two-numbers](https://github.com/venkat-0706/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/venkat-0706/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/venkat-0706/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/venkat-0706/leetcode/tree/master/0206-reverse-linked-list) |
 ## Sliding Window
 |  |
