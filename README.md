@@ -409,6 +409,7 @@ https://leetcode.com/submissions/#/1
 | [0069-sqrtx](https://github.com/venkat-0706/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/venkat-0706/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/venkat-0706/leetcode/tree/master/0204-count-primes) |
+| [0292-nim-game](https://github.com/venkat-0706/leetcode/tree/master/0292-nim-game) |
 | [0670-maximum-swap](https://github.com/venkat-0706/leetcode/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/venkat-0706/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/venkat-0706/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -759,6 +760,7 @@ https://leetcode.com/submissions/#/1
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/venkat-0706/leetcode/tree/master/0292-nim-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/venkat-0706/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Union Find
 |  |
@@ -800,4 +802,8 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/venkat-0706/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/venkat-0706/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
