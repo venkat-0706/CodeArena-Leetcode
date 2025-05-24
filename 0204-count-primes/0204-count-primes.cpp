@@ -1,23 +1,17 @@
 class Solution {
 public:
     int countPrimes(int n) {
+        vector<int>v(n+1,1);
         int count = 0;
-        if(n<=1){
-            return 0;
-        }
-        vector<bool>prime(n,true);
-        prime[0]=prime[1]=false;
-        for(int i=2;i*i<=n;i++){
-            if(prime[i]){
-                for(int j=i*i;j<n;j+=i){
-                    prime[j]=false;
+        for(long long i=2;i<=sqrt(n);i++){
+            if(v[i]){
+                for(long long j = i*i;j<n;j+=i){
+                    v[j] = 0;
                 }
             }
         }
         for(int i=2;i<n;i++){
-            if(prime[i]){
-                count++;
-            }
+            if (v[i])count++;
         }
         return count;
     }
