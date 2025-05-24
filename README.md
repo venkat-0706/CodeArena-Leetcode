@@ -333,6 +333,7 @@ https://leetcode.com/submissions/#/1
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/venkat-0706/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/venkat-0706/leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/venkat-0706/leetcode/tree/master/0190-reverse-bits) |
 | [0948-sort-an-array](https://github.com/venkat-0706/leetcode/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -489,6 +490,7 @@ https://leetcode.com/submissions/#/1
 | [0067-add-binary](https://github.com/venkat-0706/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/venkat-0706/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/venkat-0706/leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/venkat-0706/leetcode/tree/master/0190-reverse-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/venkat-0706/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/venkat-0706/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/venkat-0706/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
