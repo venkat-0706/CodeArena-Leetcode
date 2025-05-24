@@ -191,6 +191,7 @@ https://leetcode.com/submissions/#/1
 | [0140-word-break-ii](https://github.com/venkat-0706/leetcode/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/venkat-0706/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/venkat-0706/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/venkat-0706/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/venkat-0706/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/venkat-0706/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/venkat-0706/leetcode/tree/master/0283-move-zeroes) |
@@ -407,6 +408,7 @@ https://leetcode.com/submissions/#/1
 | [0067-add-binary](https://github.com/venkat-0706/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/venkat-0706/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/venkat-0706/leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/venkat-0706/leetcode/tree/master/0204-count-primes) |
 | [0670-maximum-swap](https://github.com/venkat-0706/leetcode/tree/master/0670-maximum-swap) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/venkat-0706/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/venkat-0706/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -614,6 +616,7 @@ https://leetcode.com/submissions/#/1
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/venkat-0706/leetcode/tree/master/0204-count-primes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/venkat-0706/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Tree
 |  |
@@ -691,6 +694,7 @@ https://leetcode.com/submissions/#/1
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/venkat-0706/leetcode/tree/master/0204-count-primes) |
 | [2716-prime-subtraction-operation](https://github.com/venkat-0706/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Queue
 |  |
