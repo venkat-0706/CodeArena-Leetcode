@@ -3,11 +3,8 @@ class Solution:
         i = int(a,2)
         j = int(b,2)
         while j:
-            sum  = i ^ j
-            carry = ( i & j) << 1
-            i , j  = sum ,  carry
-            
+            sum  = i^j
+            carry = (i&j) <<1
+            i,j = sum,carry
         return bin(i)[2:]
-            
-
         
