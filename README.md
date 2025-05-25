@@ -412,6 +412,7 @@ https://leetcode.com/submissions/#/1
 | [0069-sqrtx](https://github.com/venkat-0706/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/venkat-0706/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/venkat-0706/leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/venkat-0706/leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/venkat-0706/leetcode/tree/master/0292-nim-game) |
 | [0670-maximum-swap](https://github.com/venkat-0706/leetcode/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/venkat-0706/leetcode/tree/master/1013-fibonacci-number) |
@@ -527,6 +528,7 @@ https://leetcode.com/submissions/#/1
 | ------- |
 | [0043-multiply-strings](https://github.com/venkat-0706/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/venkat-0706/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/venkat-0706/leetcode/tree/master/0258-add-digits) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/venkat-0706/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/venkat-0706/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/venkat-0706/leetcode/tree/master/2058-concatenation-of-array) |
@@ -702,6 +704,7 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/venkat-0706/leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/venkat-0706/leetcode/tree/master/0258-add-digits) |
 | [2716-prime-subtraction-operation](https://github.com/venkat-0706/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Queue
 |  |
