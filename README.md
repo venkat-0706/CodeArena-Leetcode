@@ -413,6 +413,7 @@ https://leetcode.com/submissions/#/1
 | [0069-sqrtx](https://github.com/venkat-0706/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/venkat-0706/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/venkat-0706/leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/venkat-0706/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/venkat-0706/leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/venkat-0706/leetcode/tree/master/0292-nim-game) |
 | [0670-maximum-swap](https://github.com/venkat-0706/leetcode/tree/master/0670-maximum-swap) |
@@ -458,6 +459,7 @@ https://leetcode.com/submissions/#/1
 | [0021-merge-two-sorted-lists](https://github.com/venkat-0706/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/venkat-0706/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/venkat-0706/leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/venkat-0706/leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/venkat-0706/leetcode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/venkat-0706/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/venkat-0706/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -502,6 +504,7 @@ https://leetcode.com/submissions/#/1
 | [0136-single-number](https://github.com/venkat-0706/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/venkat-0706/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/venkat-0706/leetcode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/venkat-0706/leetcode/tree/master/0231-power-of-two) |
 | [0476-number-complement](https://github.com/venkat-0706/leetcode/tree/master/0476-number-complement) |
 | [1610-xor-operation-in-an-array](https://github.com/venkat-0706/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/venkat-0706/leetcode/tree/master/1940-maximum-xor-for-each-query) |
