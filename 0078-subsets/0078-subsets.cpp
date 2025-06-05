@@ -1,20 +1,18 @@
-
 class Solution {
 public:
-    vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> sets;
-        int n = nums.size();
-        int subsetsCount = 1 << n; // 2^n subsets
-
-        for (int i = 0; i < subsetsCount; ++i) {
-            vector<int> subset;
-            for (int j = 0; j < n; ++j) {
-                if (i & (1 << j)) {
-                    subset.push_back(nums[j]);
-                }
-            }
-            sets.push_back(subset);
+    void fun(int st, vector<int>&nums, vector<int>&v1,vector<vector<int>>&v){
+        v.push_back(v1);
+        for(int i=st;i<nums.size();i++){
+            v1.push_back(nums[i]);
+            fun(i+1,nums,v1,v);
+            v1.pop_back();
         }
-        return sets;
+    }
+    vector<vector<int>> subsets(vector<int>& nums) {
+        sort(nums.begin(),nums.end());
+        vector<vector<int>>v;
+        vector<int>v1;
+        fun(0,nums,v1,v);
+        return v;        
     }
 };
