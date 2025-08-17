@@ -521,6 +521,7 @@ https://leetcode.com/submissions/#/1
 | [0191-number-of-1-bits](https://github.com/venkat-0706/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/venkat-0706/leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/venkat-0706/leetcode/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/venkat-0706/leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/venkat-0706/leetcode/tree/master/0476-number-complement) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/venkat-0706/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/venkat-0706/leetcode/tree/master/1610-xor-operation-in-an-array) |
