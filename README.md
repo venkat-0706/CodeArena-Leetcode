@@ -429,6 +429,7 @@ https://leetcode.com/submissions/#/1
 | [0231-power-of-two](https://github.com/venkat-0706/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/venkat-0706/leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/venkat-0706/leetcode/tree/master/0292-nim-game) |
+| [0342-power-of-four](https://github.com/venkat-0706/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/venkat-0706/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0670-maximum-swap](https://github.com/venkat-0706/leetcode/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/venkat-0706/leetcode/tree/master/1013-fibonacci-number) |
@@ -474,6 +475,7 @@ https://leetcode.com/submissions/#/1
 | [0050-powx-n](https://github.com/venkat-0706/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/venkat-0706/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/venkat-0706/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/venkat-0706/leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/venkat-0706/leetcode/tree/master/1013-fibonacci-number) |
 | [1197-parsing-a-boolean-expression](https://github.com/venkat-0706/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/venkat-0706/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -523,6 +525,7 @@ https://leetcode.com/submissions/#/1
 | [0191-number-of-1-bits](https://github.com/venkat-0706/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/venkat-0706/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/venkat-0706/leetcode/tree/master/0260-single-number-iii) |
+| [0342-power-of-four](https://github.com/venkat-0706/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/venkat-0706/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/venkat-0706/leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/venkat-0706/leetcode/tree/master/0461-hamming-distance) |
