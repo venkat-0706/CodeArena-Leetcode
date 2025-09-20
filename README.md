@@ -180,6 +180,7 @@ https://leetcode.com/submissions/#/1
 | [0026-remove-duplicates-from-sorted-array](https://github.com/venkat-0706/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/venkat-0706/leetcode/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/venkat-0706/leetcode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/venkat-0706/leetcode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/venkat-0706/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/venkat-0706/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/venkat-0706/leetcode/tree/master/0055-jump-game) |
@@ -304,6 +305,7 @@ https://leetcode.com/submissions/#/1
 | ------- |
 | [0001-two-sum](https://github.com/venkat-0706/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/venkat-0706/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/venkat-0706/leetcode/tree/master/0041-first-missing-positive) |
 | [0140-word-break-ii](https://github.com/venkat-0706/leetcode/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/venkat-0706/leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/venkat-0706/leetcode/tree/master/0187-repeated-dna-sequences) |
