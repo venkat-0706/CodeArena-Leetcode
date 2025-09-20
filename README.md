@@ -219,6 +219,7 @@ https://leetcode.com/submissions/#/1
 | [1025-minimum-cost-for-tickets](https://github.com/venkat-0706/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/venkat-0706/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/venkat-0706/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/venkat-0706/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/venkat-0706/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/venkat-0706/leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/venkat-0706/leetcode/tree/master/1364-tuple-with-same-product) |
