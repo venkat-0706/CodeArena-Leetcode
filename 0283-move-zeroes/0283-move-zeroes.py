@@ -6,3 +6,4 @@ class Solution:
             if nums[i]!=0:
                 nums[i],nums[count] = nums[count], nums[i]
                 count+=1
+        return nums
