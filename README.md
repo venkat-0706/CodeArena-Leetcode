@@ -84,6 +84,7 @@ https://leetcode.com/submissions/#/1
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/venkat-0706/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/venkat-0706/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0038-count-and-say](https://github.com/venkat-0706/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/venkat-0706/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/venkat-0706/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/venkat-0706/leetcode/tree/master/0125-valid-palindrome) |
