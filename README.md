@@ -205,6 +205,7 @@ https://leetcode.com/submissions/#/1
 | [0260-single-number-iii](https://github.com/venkat-0706/leetcode/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/venkat-0706/leetcode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/venkat-0706/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0485-max-consecutive-ones](https://github.com/venkat-0706/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/venkat-0706/leetcode/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/venkat-0706/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/venkat-0706/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
