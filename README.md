@@ -444,6 +444,7 @@ https://leetcode.com/submissions/#/1
 | [0258-add-digits](https://github.com/venkat-0706/leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/venkat-0706/leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/venkat-0706/leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/venkat-0706/leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/venkat-0706/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/venkat-0706/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/venkat-0706/leetcode/tree/master/0670-maximum-swap) |
@@ -463,6 +464,7 @@ https://leetcode.com/submissions/#/1
 | [0004-median-of-two-sorted-arrays](https://github.com/venkat-0706/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/venkat-0706/leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/venkat-0706/leetcode/tree/master/0162-find-peak-element) |
+| [0367-valid-perfect-square](https://github.com/venkat-0706/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/venkat-0706/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/venkat-0706/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/venkat-0706/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
