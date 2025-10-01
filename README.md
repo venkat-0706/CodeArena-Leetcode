@@ -463,6 +463,7 @@ https://leetcode.com/submissions/#/1
 | [1146-greatest-common-divisor-of-strings](https://github.com/venkat-0706/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/venkat-0706/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1610-xor-operation-in-an-array](https://github.com/venkat-0706/leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1642-water-bottles](https://github.com/venkat-0706/leetcode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/venkat-0706/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/venkat-0706/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/venkat-0706/leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -597,6 +598,7 @@ https://leetcode.com/submissions/#/1
 | [0043-multiply-strings](https://github.com/venkat-0706/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/venkat-0706/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/venkat-0706/leetcode/tree/master/0258-add-digits) |
+| [1642-water-bottles](https://github.com/venkat-0706/leetcode/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/venkat-0706/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/venkat-0706/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/venkat-0706/leetcode/tree/master/2058-concatenation-of-array) |
