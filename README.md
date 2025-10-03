@@ -191,6 +191,7 @@ https://leetcode.com/submissions/#/1
 | [0053-maximum-subarray](https://github.com/venkat-0706/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/venkat-0706/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/venkat-0706/leetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/venkat-0706/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/venkat-0706/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/venkat-0706/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/venkat-0706/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -480,6 +481,7 @@ https://leetcode.com/submissions/#/1
 | [0033-search-in-rotated-sorted-array](https://github.com/venkat-0706/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/venkat-0706/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/venkat-0706/leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/venkat-0706/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/venkat-0706/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/venkat-0706/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/venkat-0706/leetcode/tree/master/0162-find-peak-element) |
@@ -619,6 +621,7 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/venkat-0706/leetcode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/venkat-0706/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/venkat-0706/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/venkat-0706/leetcode/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/venkat-0706/leetcode/tree/master/0854-making-a-large-island) |
