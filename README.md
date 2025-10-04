@@ -56,6 +56,7 @@ https://leetcode.com/submissions/#/1
 | [0018-4sum](https://github.com/venkat-0706/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/venkat-0706/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/venkat-0706/leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/venkat-0706/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/venkat-0706/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/venkat-0706/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/venkat-0706/leetcode/tree/master/0088-merge-sorted-array) |
@@ -140,6 +141,7 @@ https://leetcode.com/submissions/#/1
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/venkat-0706/leetcode/tree/master/0042-trapping-rain-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/venkat-0706/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkat-0706/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/venkat-0706/leetcode/tree/master/1002-maximum-width-ramp) |
@@ -187,6 +189,7 @@ https://leetcode.com/submissions/#/1
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/venkat-0706/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/venkat-0706/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/venkat-0706/leetcode/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/venkat-0706/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/venkat-0706/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/venkat-0706/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/venkat-0706/leetcode/tree/master/0055-jump-game) |
@@ -424,6 +427,7 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/venkat-0706/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/venkat-0706/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/venkat-0706/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/venkat-0706/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkat-0706/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -529,6 +533,7 @@ https://leetcode.com/submissions/#/1
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/venkat-0706/leetcode/tree/master/0042-trapping-rain-water) |
 | [0780-max-chunks-to-make-sorted](https://github.com/venkat-0706/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/venkat-0706/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/venkat-0706/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
