@@ -165,6 +165,7 @@ https://leetcode.com/submissions/#/1
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkat-0706/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/venkat-0706/leetcode/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/venkat-0706/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1612-avoid-flood-in-the-city](https://github.com/venkat-0706/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/venkat-0706/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2089-maximum-matrix-sum](https://github.com/venkat-0706/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/venkat-0706/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -253,6 +254,7 @@ https://leetcode.com/submissions/#/1
 | [1524-string-matching-in-an-array](https://github.com/venkat-0706/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/venkat-0706/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/venkat-0706/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1612-avoid-flood-in-the-city](https://github.com/venkat-0706/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/venkat-0706/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/venkat-0706/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1755-defuse-the-bomb](https://github.com/venkat-0706/leetcode/tree/master/1755-defuse-the-bomb) |
@@ -345,6 +347,7 @@ https://leetcode.com/submissions/#/1
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/venkat-0706/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/venkat-0706/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/venkat-0706/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1612-avoid-flood-in-the-city](https://github.com/venkat-0706/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/venkat-0706/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/venkat-0706/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/venkat-0706/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -503,6 +506,7 @@ https://leetcode.com/submissions/#/1
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/venkat-0706/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/venkat-0706/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/venkat-0706/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1612-avoid-flood-in-the-city](https://github.com/venkat-0706/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/venkat-0706/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/venkat-0706/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/venkat-0706/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -661,6 +665,7 @@ https://leetcode.com/submissions/#/1
 | [0948-sort-an-array](https://github.com/venkat-0706/leetcode/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/venkat-0706/leetcode/tree/master/1304-longest-happy-string) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/venkat-0706/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1612-avoid-flood-in-the-city](https://github.com/venkat-0706/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/venkat-0706/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/venkat-0706/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/venkat-0706/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
