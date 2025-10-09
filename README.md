@@ -328,6 +328,7 @@ https://leetcode.com/submissions/#/1
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/venkat-0706/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/venkat-0706/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/venkat-0706/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -640,6 +641,7 @@ https://leetcode.com/submissions/#/1
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/venkat-0706/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/venkat-0706/leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/venkat-0706/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Matrix
 |  |
 | ------- |
@@ -725,6 +727,7 @@ https://leetcode.com/submissions/#/1
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/venkat-0706/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/venkat-0706/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/venkat-0706/leetcode/tree/master/3427-special-array-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/venkat-0706/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Enumeration
 |  |
 | ------- |
