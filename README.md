@@ -332,6 +332,7 @@ https://leetcode.com/submissions/#/1
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/venkat-0706/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/venkat-0706/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/venkat-0706/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/venkat-0706/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/venkat-0706/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
@@ -541,6 +542,7 @@ https://leetcode.com/submissions/#/1
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/venkat-0706/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/venkat-0706/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/venkat-0706/leetcode/tree/master/3427-special-array-ii) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/venkat-0706/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Recursion
 |  |
 | ------- |
