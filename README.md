@@ -143,6 +143,7 @@ https://leetcode.com/submissions/#/1
 | [3447-clear-digits](https://github.com/venkat-0706/leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/venkat-0706/leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/venkat-0706/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -520,6 +521,7 @@ https://leetcode.com/submissions/#/1
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/venkat-0706/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2716-prime-subtraction-operation](https://github.com/venkat-0706/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/venkat-0706/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Binary Search
 |  |
@@ -676,6 +678,7 @@ https://leetcode.com/submissions/#/1
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/venkat-0706/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/venkat-0706/leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/venkat-0706/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Matrix
 |  |
@@ -856,6 +859,7 @@ https://leetcode.com/submissions/#/1
 | [0204-count-primes](https://github.com/venkat-0706/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/venkat-0706/leetcode/tree/master/0258-add-digits) |
 | [2716-prime-subtraction-operation](https://github.com/venkat-0706/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Queue
 |  |
 | ------- |
@@ -973,6 +977,7 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/venkat-0706/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/venkat-0706/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |
