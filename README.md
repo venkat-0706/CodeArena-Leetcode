@@ -375,6 +375,7 @@ https://leetcode.com/submissions/#/1
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/venkat-0706/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/venkat-0706/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/venkat-0706/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/venkat-0706/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2300-construct-string-with-repeat-limit](https://github.com/venkat-0706/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/venkat-0706/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/venkat-0706/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -450,6 +451,7 @@ https://leetcode.com/submissions/#/1
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/venkat-0706/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1502-construct-k-palindrome-strings](https://github.com/venkat-0706/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/venkat-0706/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/venkat-0706/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2300-construct-string-with-repeat-limit](https://github.com/venkat-0706/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/venkat-0706/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/venkat-0706/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -514,6 +516,7 @@ https://leetcode.com/submissions/#/1
 | [1610-xor-operation-in-an-array](https://github.com/venkat-0706/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/venkat-0706/leetcode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/venkat-0706/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/venkat-0706/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/venkat-0706/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/venkat-0706/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/venkat-0706/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -656,6 +659,7 @@ https://leetcode.com/submissions/#/1
 | [0494-target-sum](https://github.com/venkat-0706/leetcode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/venkat-0706/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/venkat-0706/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/venkat-0706/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Simulation
 |  |
 | ------- |
@@ -775,6 +779,7 @@ https://leetcode.com/submissions/#/1
 | [0204-count-primes](https://github.com/venkat-0706/leetcode/tree/master/0204-count-primes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/venkat-0706/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/venkat-0706/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/venkat-0706/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2870-longest-alternating-subarray](https://github.com/venkat-0706/leetcode/tree/master/2870-longest-alternating-subarray) |
 ## Tree
 |  |
