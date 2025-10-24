@@ -500,6 +500,7 @@ https://leetcode.com/submissions/#/1
 | [0067-add-binary](https://github.com/venkat-0706/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/venkat-0706/leetcode/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/venkat-0706/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0172-factorial-trailing-zeroes](https://github.com/venkat-0706/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/venkat-0706/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/venkat-0706/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/venkat-0706/leetcode/tree/master/0231-power-of-two) |
