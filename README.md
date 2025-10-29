@@ -89,6 +89,7 @@ https://leetcode.com/submissions/#/1
 | [0005-longest-palindromic-substring](https://github.com/venkat-0706/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/venkat-0706/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/venkat-0706/leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/venkat-0706/leetcode/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/venkat-0706/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/venkat-0706/leetcode/tree/master/0125-valid-palindrome) |
 | [0140-word-break-ii](https://github.com/venkat-0706/leetcode/tree/master/0140-word-break-ii) |
@@ -162,6 +163,7 @@ https://leetcode.com/submissions/#/1
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/venkat-0706/leetcode/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/venkat-0706/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/venkat-0706/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/venkat-0706/leetcode/tree/master/0134-gas-station) |
@@ -467,6 +469,7 @@ https://leetcode.com/submissions/#/1
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/venkat-0706/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/venkat-0706/leetcode/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/venkat-0706/leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/venkat-0706/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/venkat-0706/leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkat-0706/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -578,6 +581,7 @@ https://leetcode.com/submissions/#/1
 | ------- |
 | [0002-add-two-numbers](https://github.com/venkat-0706/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/venkat-0706/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/venkat-0706/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/venkat-0706/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/venkat-0706/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/venkat-0706/leetcode/tree/master/0231-power-of-two) |
