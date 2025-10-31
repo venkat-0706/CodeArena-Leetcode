@@ -97,6 +97,7 @@ https://leetcode.com/submissions/#/1
 | [0165-compare-version-numbers](https://github.com/venkat-0706/leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/venkat-0706/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/venkat-0706/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0306-additive-number](https://github.com/venkat-0706/leetcode/tree/master/0306-additive-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/venkat-0706/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/venkat-0706/leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/venkat-0706/leetcode/tree/master/0389-find-the-difference) |
@@ -669,6 +670,7 @@ https://leetcode.com/submissions/#/1
 | [0078-subsets](https://github.com/venkat-0706/leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/venkat-0706/leetcode/tree/master/0089-gray-code) |
 | [0140-word-break-ii](https://github.com/venkat-0706/leetcode/tree/master/0140-word-break-ii) |
+| [0306-additive-number](https://github.com/venkat-0706/leetcode/tree/master/0306-additive-number) |
 | [0494-target-sum](https://github.com/venkat-0706/leetcode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/venkat-0706/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/venkat-0706/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
