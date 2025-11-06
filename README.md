@@ -357,6 +357,7 @@ https://leetcode.com/submissions/#/1
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/venkat-0706/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/venkat-0706/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/venkat-0706/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/venkat-0706/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -410,6 +411,7 @@ https://leetcode.com/submissions/#/1
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/venkat-0706/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/venkat-0706/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/venkat-0706/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/venkat-0706/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -763,6 +765,7 @@ https://leetcode.com/submissions/#/1
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/venkat-0706/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/venkat-0706/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/venkat-0706/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
 | ------- |
@@ -851,6 +854,7 @@ https://leetcode.com/submissions/#/1
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/venkat-0706/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/venkat-0706/leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/venkat-0706/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3863-power-grid-maintenance](https://github.com/venkat-0706/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -882,6 +886,7 @@ https://leetcode.com/submissions/#/1
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/venkat-0706/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/venkat-0706/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/venkat-0706/leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3863-power-grid-maintenance](https://github.com/venkat-0706/leetcode/tree/master/3863-power-grid-maintenance) |
 ## String Matching
 |  |
 | ------- |
@@ -924,6 +929,7 @@ https://leetcode.com/submissions/#/1
 | [3189-find-champion-ii](https://github.com/venkat-0706/leetcode/tree/master/3189-find-champion-ii) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/venkat-0706/leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/venkat-0706/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3863-power-grid-maintenance](https://github.com/venkat-0706/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
@@ -939,6 +945,7 @@ https://leetcode.com/submissions/#/1
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/venkat-0706/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/venkat-0706/leetcode/tree/master/2868-continuous-subarrays) |
+| [3863-power-grid-maintenance](https://github.com/venkat-0706/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -975,6 +982,7 @@ https://leetcode.com/submissions/#/1
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/venkat-0706/leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/venkat-0706/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/venkat-0706/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3863-power-grid-maintenance](https://github.com/venkat-0706/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
