@@ -541,6 +541,7 @@ https://leetcode.com/submissions/#/1
 | [1817-calculate-money-in-leetcode-bank](https://github.com/venkat-0706/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/venkat-0706/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/venkat-0706/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/venkat-0706/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/venkat-0706/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/venkat-0706/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/venkat-0706/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -710,6 +711,7 @@ https://leetcode.com/submissions/#/1
 | [2169-simple-bank-system](https://github.com/venkat-0706/leetcode/tree/master/2169-simple-bank-system) |
 | [2232-adding-spaces-to-a-string](https://github.com/venkat-0706/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/venkat-0706/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2288-count-operations-to-obtain-zero](https://github.com/venkat-0706/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/venkat-0706/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/venkat-0706/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/venkat-0706/leetcode/tree/master/2551-apply-operations-to-an-array) |
