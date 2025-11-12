@@ -210,6 +210,7 @@ https://leetcode.com/submissions/#/1
 | [0040-combination-sum-ii](https://github.com/venkat-0706/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/venkat-0706/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/venkat-0706/leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/venkat-0706/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/venkat-0706/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/venkat-0706/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/venkat-0706/leetcode/tree/master/0055-jump-game) |
@@ -703,6 +704,7 @@ https://leetcode.com/submissions/#/1
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/venkat-0706/leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/venkat-0706/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/venkat-0706/leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/venkat-0706/leetcode/tree/master/0089-gray-code) |
 | [0140-word-break-ii](https://github.com/venkat-0706/leetcode/tree/master/0140-word-break-ii) |
