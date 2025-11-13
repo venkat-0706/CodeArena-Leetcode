@@ -150,6 +150,7 @@ https://leetcode.com/submissions/#/1
 | [3447-clear-digits](https://github.com/venkat-0706/leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/venkat-0706/leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/venkat-0706/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/venkat-0706/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
@@ -195,6 +196,7 @@ https://leetcode.com/submissions/#/1
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/venkat-0706/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2716-prime-subtraction-operation](https://github.com/venkat-0706/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/venkat-0706/leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/venkat-0706/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/venkat-0706/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/venkat-0706/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Array
@@ -490,6 +492,7 @@ https://leetcode.com/submissions/#/1
 | [3242-count-elements-with-maximum-frequency](https://github.com/venkat-0706/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/venkat-0706/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/venkat-0706/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/venkat-0706/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Dynamic Programming
 |  |
 | ------- |
