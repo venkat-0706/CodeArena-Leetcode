@@ -150,6 +150,7 @@ https://leetcode.com/submissions/#/1
 | [3447-clear-digits](https://github.com/venkat-0706/leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/venkat-0706/leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/venkat-0706/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/venkat-0706/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/venkat-0706/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
@@ -661,6 +662,7 @@ https://leetcode.com/submissions/#/1
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/venkat-0706/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/venkat-0706/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/venkat-0706/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/venkat-0706/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3483-alternating-groups-ii](https://github.com/venkat-0706/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/venkat-0706/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/venkat-0706/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -849,6 +851,7 @@ https://leetcode.com/submissions/#/1
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/venkat-0706/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/venkat-0706/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2870-longest-alternating-subarray](https://github.com/venkat-0706/leetcode/tree/master/2870-longest-alternating-subarray) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/venkat-0706/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Tree
 |  |
 | ------- |
