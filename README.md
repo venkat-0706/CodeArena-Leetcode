@@ -267,6 +267,7 @@ https://leetcode.com/submissions/#/1
 | [0952-word-subsets](https://github.com/venkat-0706/leetcode/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/venkat-0706/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1002-maximum-width-ramp](https://github.com/venkat-0706/leetcode/tree/master/1002-maximum-width-ramp) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/venkat-0706/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/venkat-0706/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/venkat-0706/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/venkat-0706/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -704,6 +705,7 @@ https://leetcode.com/submissions/#/1
 | [0389-find-the-difference](https://github.com/venkat-0706/leetcode/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/venkat-0706/leetcode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/venkat-0706/leetcode/tree/master/0476-number-complement) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/venkat-0706/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/venkat-0706/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/venkat-0706/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/venkat-0706/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
