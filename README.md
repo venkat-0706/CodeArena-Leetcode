@@ -400,6 +400,7 @@ https://leetcode.com/submissions/#/1
 | [0389-find-the-difference](https://github.com/venkat-0706/leetcode/tree/master/0389-find-the-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/venkat-0706/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0952-word-subsets](https://github.com/venkat-0706/leetcode/tree/master/0952-word-subsets) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/venkat-0706/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/venkat-0706/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/venkat-0706/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/venkat-0706/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -568,6 +569,7 @@ https://leetcode.com/submissions/#/1
 | [0628-maximum-product-of-three-numbers](https://github.com/venkat-0706/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/venkat-0706/leetcode/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/venkat-0706/leetcode/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/venkat-0706/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/venkat-0706/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/venkat-0706/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1610-xor-operation-in-an-array](https://github.com/venkat-0706/leetcode/tree/master/1610-xor-operation-in-an-array) |
