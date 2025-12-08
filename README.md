@@ -598,6 +598,7 @@ https://leetcode.com/submissions/#/1
 | [1642-water-bottles](https://github.com/venkat-0706/leetcode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/venkat-0706/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/venkat-0706/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1925-count-square-sum-triples](https://github.com/venkat-0706/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/venkat-0706/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/venkat-0706/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/venkat-0706/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -901,6 +902,7 @@ https://leetcode.com/submissions/#/1
 | ------- |
 | [0204-count-primes](https://github.com/venkat-0706/leetcode/tree/master/0204-count-primes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/venkat-0706/leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1925-count-square-sum-triples](https://github.com/venkat-0706/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/venkat-0706/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/venkat-0706/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2870-longest-alternating-subarray](https://github.com/venkat-0706/leetcode/tree/master/2870-longest-alternating-subarray) |
