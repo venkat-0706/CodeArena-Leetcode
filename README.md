@@ -382,6 +382,7 @@ https://leetcode.com/submissions/#/1
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/venkat-0706/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/venkat-0706/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/venkat-0706/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3531-count-covered-buildings](https://github.com/venkat-0706/leetcode/tree/master/3531-count-covered-buildings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/venkat-0706/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/venkat-0706/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -454,6 +455,7 @@ https://leetcode.com/submissions/#/1
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/venkat-0706/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/venkat-0706/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/venkat-0706/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3531-count-covered-buildings](https://github.com/venkat-0706/leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/venkat-0706/leetcode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/venkat-0706/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/venkat-0706/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -508,6 +510,7 @@ https://leetcode.com/submissions/#/1
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/venkat-0706/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/venkat-0706/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/venkat-0706/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3531-count-covered-buildings](https://github.com/venkat-0706/leetcode/tree/master/3531-count-covered-buildings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/venkat-0706/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/venkat-0706/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
