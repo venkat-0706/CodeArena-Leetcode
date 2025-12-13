@@ -155,6 +155,7 @@ https://leetcode.com/submissions/#/1
 | [3455-minimum-length-of-string-after-operations](https://github.com/venkat-0706/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/venkat-0706/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/venkat-0706/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3606-coupon-code-validator](https://github.com/venkat-0706/leetcode/tree/master/3606-coupon-code-validator) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
@@ -389,6 +390,7 @@ https://leetcode.com/submissions/#/1
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/venkat-0706/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/venkat-0706/leetcode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/venkat-0706/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/venkat-0706/leetcode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/venkat-0706/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/venkat-0706/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/venkat-0706/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -459,6 +461,7 @@ https://leetcode.com/submissions/#/1
 | [3531-count-covered-buildings](https://github.com/venkat-0706/leetcode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/venkat-0706/leetcode/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/venkat-0706/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/venkat-0706/leetcode/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/venkat-0706/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/venkat-0706/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/venkat-0706/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -513,6 +516,7 @@ https://leetcode.com/submissions/#/1
 | [3291-find-if-array-can-be-sorted](https://github.com/venkat-0706/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3433-count-mentions-per-user](https://github.com/venkat-0706/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/venkat-0706/leetcode/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/venkat-0706/leetcode/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/venkat-0706/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/venkat-0706/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
