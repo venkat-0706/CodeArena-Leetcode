@@ -134,6 +134,7 @@ https://leetcode.com/submissions/#/1
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/venkat-0706/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/venkat-0706/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/venkat-0706/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/venkat-0706/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/venkat-0706/leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/venkat-0706/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/venkat-0706/leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -567,6 +568,7 @@ https://leetcode.com/submissions/#/1
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/venkat-0706/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/venkat-0706/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/venkat-0706/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/venkat-0706/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2164-two-best-non-overlapping-events](https://github.com/venkat-0706/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/venkat-0706/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2562-count-ways-to-build-good-strings](https://github.com/venkat-0706/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
@@ -612,6 +614,7 @@ https://leetcode.com/submissions/#/1
 | [1817-calculate-money-in-leetcode-bank](https://github.com/venkat-0706/leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/venkat-0706/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/venkat-0706/leetcode/tree/master/1925-count-square-sum-triples) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/venkat-0706/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/venkat-0706/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/venkat-0706/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/venkat-0706/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
