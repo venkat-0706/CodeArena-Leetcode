@@ -388,6 +388,7 @@ https://leetcode.com/submissions/#/1
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/venkat-0706/leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3531-count-covered-buildings](https://github.com/venkat-0706/leetcode/tree/master/3531-count-covered-buildings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/venkat-0706/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/venkat-0706/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/venkat-0706/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/venkat-0706/leetcode/tree/master/3583-count-special-triplets) |
@@ -576,6 +577,7 @@ https://leetcode.com/submissions/#/1
 | [2562-count-ways-to-build-good-strings](https://github.com/venkat-0706/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/venkat-0706/leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/venkat-0706/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/venkat-0706/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/venkat-0706/leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/venkat-0706/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Math
@@ -941,6 +943,7 @@ https://leetcode.com/submissions/#/1
 | [2677-cousins-in-binary-tree-ii](https://github.com/venkat-0706/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/venkat-0706/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/venkat-0706/leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/venkat-0706/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -999,6 +1002,7 @@ https://leetcode.com/submissions/#/1
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/venkat-0706/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/venkat-0706/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/venkat-0706/leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/venkat-0706/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/venkat-0706/leetcode/tree/master/3863-power-grid-maintenance) |
 ## String Matching
 |  |
