@@ -108,6 +108,7 @@ https://leetcode.com/submissions/#/1
 | [0443-string-compression](https://github.com/venkat-0706/leetcode/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/venkat-0706/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0812-rotate-string](https://github.com/venkat-0706/leetcode/tree/master/0812-rotate-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/venkat-0706/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/venkat-0706/leetcode/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkat-0706/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/venkat-0706/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -270,6 +271,7 @@ https://leetcode.com/submissions/#/1
 | [0854-making-a-large-island](https://github.com/venkat-0706/leetcode/tree/master/0854-making-a-large-island) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/venkat-0706/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/venkat-0706/leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0944-delete-columns-to-make-sorted](https://github.com/venkat-0706/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/venkat-0706/leetcode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/venkat-0706/leetcode/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/venkat-0706/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
