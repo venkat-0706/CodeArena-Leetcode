@@ -112,6 +112,7 @@ https://leetcode.com/submissions/#/1
 | [0952-word-subsets](https://github.com/venkat-0706/leetcode/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/venkat-0706/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkat-0706/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/venkat-0706/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/venkat-0706/leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/venkat-0706/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/venkat-0706/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -278,6 +279,7 @@ https://leetcode.com/submissions/#/1
 | [0952-word-subsets](https://github.com/venkat-0706/leetcode/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/venkat-0706/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/venkat-0706/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/venkat-0706/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1002-maximum-width-ramp](https://github.com/venkat-0706/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/venkat-0706/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/venkat-0706/leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -569,6 +571,7 @@ https://leetcode.com/submissions/#/1
 | [0494-target-sum](https://github.com/venkat-0706/leetcode/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/venkat-0706/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/venkat-0706/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/venkat-0706/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/venkat-0706/leetcode/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/venkat-0706/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/venkat-0706/leetcode/tree/master/1063-best-sightseeing-pair) |
