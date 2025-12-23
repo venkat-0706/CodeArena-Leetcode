@@ -316,6 +316,7 @@ https://leetcode.com/submissions/#/1
 | [1927-maximum-ascending-subarray-sum](https://github.com/venkat-0706/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/venkat-0706/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/venkat-0706/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2054-two-best-non-overlapping-events](https://github.com/venkat-0706/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/venkat-0706/leetcode/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/venkat-0706/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/venkat-0706/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -510,6 +511,7 @@ https://leetcode.com/submissions/#/1
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/venkat-0706/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/venkat-0706/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/venkat-0706/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2054-two-best-non-overlapping-events](https://github.com/venkat-0706/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/venkat-0706/leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/venkat-0706/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2164-two-best-non-overlapping-events](https://github.com/venkat-0706/leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -581,6 +583,7 @@ https://leetcode.com/submissions/#/1
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/venkat-0706/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/venkat-0706/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/venkat-0706/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2054-two-best-non-overlapping-events](https://github.com/venkat-0706/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/venkat-0706/leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/venkat-0706/leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2164-two-best-non-overlapping-events](https://github.com/venkat-0706/leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -675,6 +678,7 @@ https://leetcode.com/submissions/#/1
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/venkat-0706/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/venkat-0706/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/venkat-0706/leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2054-two-best-non-overlapping-events](https://github.com/venkat-0706/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/venkat-0706/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2164-two-best-non-overlapping-events](https://github.com/venkat-0706/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/venkat-0706/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -869,6 +873,7 @@ https://leetcode.com/submissions/#/1
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/venkat-0706/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/venkat-0706/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/venkat-0706/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2054-two-best-non-overlapping-events](https://github.com/venkat-0706/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2164-two-best-non-overlapping-events](https://github.com/venkat-0706/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/venkat-0706/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/venkat-0706/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
