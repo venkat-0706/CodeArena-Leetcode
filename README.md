@@ -210,6 +210,7 @@ https://leetcode.com/submissions/#/1
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/venkat-0706/leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2716-prime-subtraction-operation](https://github.com/venkat-0706/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3074-apple-redistribution-into-boxes](https://github.com/venkat-0706/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/venkat-0706/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3195-separate-black-and-white-balls](https://github.com/venkat-0706/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/venkat-0706/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/venkat-0706/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -375,6 +376,7 @@ https://leetcode.com/submissions/#/1
 | [2870-longest-alternating-subarray](https://github.com/venkat-0706/leetcode/tree/master/2870-longest-alternating-subarray) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/venkat-0706/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3074-apple-redistribution-into-boxes](https://github.com/venkat-0706/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/venkat-0706/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/venkat-0706/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/venkat-0706/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/venkat-0706/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -530,6 +532,7 @@ https://leetcode.com/submissions/#/1
 | [2699-count-the-number-of-fair-pairs](https://github.com/venkat-0706/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/venkat-0706/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3074-apple-redistribution-into-boxes](https://github.com/venkat-0706/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/venkat-0706/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/venkat-0706/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3291-find-if-array-can-be-sorted](https://github.com/venkat-0706/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3433-count-mentions-per-user](https://github.com/venkat-0706/leetcode/tree/master/3433-count-mentions-per-user) |
