@@ -285,6 +285,7 @@ https://leetcode.com/submissions/#/1
 | [0954-maximum-sum-circular-subarray](https://github.com/venkat-0706/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/venkat-0706/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/venkat-0706/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-maximum-width-ramp](https://github.com/venkat-0706/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/venkat-0706/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/venkat-0706/leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -444,6 +445,7 @@ https://leetcode.com/submissions/#/1
 | [0756-pyramid-transition-matrix](https://github.com/venkat-0706/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/venkat-0706/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0952-word-subsets](https://github.com/venkat-0706/leetcode/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/venkat-0706/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/venkat-0706/leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/venkat-0706/leetcode/tree/master/1319-unique-number-of-occurrences) |
