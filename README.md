@@ -582,6 +582,7 @@ https://leetcode.com/submissions/#/1
 | [0044-wildcard-matching](https://github.com/venkat-0706/leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/venkat-0706/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/venkat-0706/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/venkat-0706/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/venkat-0706/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/venkat-0706/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/venkat-0706/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -629,6 +630,7 @@ https://leetcode.com/submissions/#/1
 | [0066-plus-one](https://github.com/venkat-0706/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/venkat-0706/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/venkat-0706/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/venkat-0706/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/venkat-0706/leetcode/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/venkat-0706/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/venkat-0706/leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -932,6 +934,7 @@ https://leetcode.com/submissions/#/1
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/venkat-0706/leetcode/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/venkat-0706/leetcode/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/venkat-0706/leetcode/tree/master/1013-fibonacci-number) |
