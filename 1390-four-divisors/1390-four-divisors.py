@@ -1,36 +1,36 @@
 from typing import List
+from math import isqrt
 
 class Solution:
     def sumFourDivisors(self, nums: List[int]) -> int:
+        def is_prime(x: int) -> bool:
+            if x < 2:
+                return False
+            for i in range(2, isqrt(x) + 1):
+                if x % i == 0:
+                    return False
+            return True
+
         total = 0
 
         for n in nums:
-            temp = n
-            factors = {}
+            d = -1
+            for i in range(2, isqrt(n) + 1):
+                if n % i == 0:
+                    d = i
+                    break
 
-            # Prime factorization
-            d = 2
-            while d * d <= temp:
-                while temp % d == 0:
-                    factors[d] = factors.get(d, 0) + 1
-                    temp //= d
-                d += 1
+            if d == -1:
+                continue  # prime → only 2 divisors
 
-            if temp > 1:
-                factors[temp] = factors.get(temp, 0) + 1
+            m = n // d
 
-            # Case 1: n = p^3
-            if len(factors) == 1:
-                p, exp = list(factors.items())[0]
-                if exp == 3:
-                    total += 1 + p + p*p + p*p*p
+            # Case 1: n = p^3 → m = p^2 and d = p
+            if m % d == 0 and m // d == d and is_prime(d):
+                total += 1 + d + d*d + d*d*d
 
-            # Case 2: n = p * q
-            elif len(factors) == 2:
-                items = list(factors.items())
-                if items[0][1] == 1 and items[1][1] == 1:
-                    p = items[0][0]
-                    q = items[1][0]
-                    total += 1 + p + q + p*q
+            # Case 2: n = p * q → p != q and both prime
+            elif d != m and is_prime(d) and is_prime(m):
+                total += 1 + d + m + n
 
         return total
