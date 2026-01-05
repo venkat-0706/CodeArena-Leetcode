@@ -201,6 +201,7 @@ https://leetcode.com/submissions/#/1
 | [1612-avoid-flood-in-the-city](https://github.com/venkat-0706/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/venkat-0706/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/venkat-0706/leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1975-maximum-matrix-sum](https://github.com/venkat-0706/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2089-maximum-matrix-sum](https://github.com/venkat-0706/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/venkat-0706/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/venkat-0706/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -326,6 +327,7 @@ https://leetcode.com/submissions/#/1
 | [1927-maximum-ascending-subarray-sum](https://github.com/venkat-0706/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/venkat-0706/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/venkat-0706/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/venkat-0706/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/venkat-0706/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2054-two-best-non-overlapping-events](https://github.com/venkat-0706/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/venkat-0706/leetcode/tree/master/2058-concatenation-of-array) |
@@ -891,6 +893,7 @@ https://leetcode.com/submissions/#/1
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/venkat-0706/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/venkat-0706/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/venkat-0706/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/venkat-0706/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2089-maximum-matrix-sum](https://github.com/venkat-0706/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/venkat-0706/leetcode/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/venkat-0706/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
