@@ -1,13 +1,26 @@
 class Solution(object):
     def maxDotProduct(self, nums1, nums2):
+        # Always make nums2 the smaller one for less memory
+        if len(nums1) < len(nums2):
+            nums1, nums2 = nums2, nums1
+
         m, n = len(nums1), len(nums2)
-        if m<n:
-             return self.maxDotProduct(nums2, nums1)
-        dp = [float("-inf")] * (n+1)
+        dp = [float('-inf')] * (n + 1)
+
         for i in range(m):
-            prev=0
+            prev = float('-inf')
+            a = nums1[i]
             for j in range(n):
-                tmp=dp[j+1]
-                dp[j+1]=max(prev+nums1[i]*nums2[j], nums1[i]*nums2[j], dp[j], dp[j+1])
-                prev=tmp
-        return dp[-1]
+                b = nums2[j]
+                curr = a * b
+
+                temp = dp[j + 1]
+                dp[j + 1] = max(
+                    prev + curr,  # extend previous subsequence
+                    curr,         # start new subsequence
+                    dp[j + 1],    # skip nums1[i]
+                    dp[j]         # skip nums2[j]
+                )
+                prev = temp
+
+        return dp[n]
