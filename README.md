@@ -306,6 +306,7 @@ https://leetcode.com/submissions/#/1
 | [1396-count-servers-that-communicate](https://github.com/venkat-0706/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/venkat-0706/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/venkat-0706/leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/venkat-0706/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/venkat-0706/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/venkat-0706/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/venkat-0706/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -606,6 +607,7 @@ https://leetcode.com/submissions/#/1
 | [1262-greatest-sum-divisible-by-three](https://github.com/venkat-0706/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/venkat-0706/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/venkat-0706/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/venkat-0706/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/venkat-0706/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/venkat-0706/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
