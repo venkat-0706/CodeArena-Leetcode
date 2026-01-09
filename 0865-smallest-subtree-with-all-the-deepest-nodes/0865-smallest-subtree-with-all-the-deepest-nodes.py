@@ -12,4 +12,3 @@ class Solution:
             return ((ld+1,n),(ld+1,ln),(rd+1,rn))[(ld>rd)-(ld<rd)]
 
         return f(r)[1]
-        
