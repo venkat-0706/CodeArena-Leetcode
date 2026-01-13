@@ -410,6 +410,7 @@ https://leetcode.com/submissions/#/1
 | [3432-count-partitions-with-even-sum-difference](https://github.com/venkat-0706/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/venkat-0706/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/venkat-0706/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3453-separate-squares-i](https://github.com/venkat-0706/leetcode/tree/master/3453-separate-squares-i) |
 | [3483-alternating-groups-ii](https://github.com/venkat-0706/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/venkat-0706/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/venkat-0706/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -739,6 +740,7 @@ https://leetcode.com/submissions/#/1
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/venkat-0706/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/venkat-0706/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/venkat-0706/leetcode/tree/master/3427-special-array-ii) |
+| [3453-separate-squares-i](https://github.com/venkat-0706/leetcode/tree/master/3453-separate-squares-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/venkat-0706/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/venkat-0706/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
