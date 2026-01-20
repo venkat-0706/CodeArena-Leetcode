@@ -404,6 +404,7 @@ https://leetcode.com/submissions/#/1
 | [3242-count-elements-with-maximum-frequency](https://github.com/venkat-0706/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/venkat-0706/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/venkat-0706/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/venkat-0706/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/venkat-0706/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/venkat-0706/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -848,6 +849,7 @@ https://leetcode.com/submissions/#/1
 | [2792-neighboring-bitwise-xor](https://github.com/venkat-0706/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/venkat-0706/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3291-find-if-array-can-be-sorted](https://github.com/venkat-0706/leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/venkat-0706/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/venkat-0706/leetcode/tree/master/3394-minimum-array-end) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/venkat-0706/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
