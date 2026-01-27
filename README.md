@@ -980,6 +980,7 @@ https://leetcode.com/submissions/#/1
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/venkat-0706/leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/venkat-0706/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3863-power-grid-maintenance](https://github.com/venkat-0706/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
@@ -1187,6 +1188,7 @@ https://leetcode.com/submissions/#/1
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/venkat-0706/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/venkat-0706/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/venkat-0706/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -1304,4 +1306,8 @@ https://leetcode.com/submissions/#/1
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
