@@ -403,6 +403,7 @@ https://leetcode.com/submissions/#/1
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/venkat-0706/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/venkat-0706/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/venkat-0706/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/venkat-0706/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/venkat-0706/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -579,6 +580,7 @@ https://leetcode.com/submissions/#/1
 | [2699-count-the-number-of-fair-pairs](https://github.com/venkat-0706/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/venkat-0706/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/venkat-0706/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/venkat-0706/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/venkat-0706/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/venkat-0706/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1054,6 +1056,7 @@ https://leetcode.com/submissions/#/1
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/venkat-0706/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/venkat-0706/leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2870-longest-alternating-subarray](https://github.com/venkat-0706/leetcode/tree/master/2870-longest-alternating-subarray) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/venkat-0706/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Tree
 |  |
