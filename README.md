@@ -130,6 +130,7 @@ https://leetcode.com/submissions/#/1
 | [1537-maximum-score-after-splitting-a-string](https://github.com/venkat-0706/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/venkat-0706/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/venkat-0706/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/venkat-0706/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/venkat-0706/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/venkat-0706/leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -178,6 +179,7 @@ https://leetcode.com/submissions/#/1
 | [1002-maximum-width-ramp](https://github.com/venkat-0706/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/venkat-0706/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/venkat-0706/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/venkat-0706/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/venkat-0706/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/venkat-0706/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -649,6 +651,7 @@ https://leetcode.com/submissions/#/1
 | [1402-count-square-submatrices-with-all-ones](https://github.com/venkat-0706/leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/venkat-0706/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/venkat-0706/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/venkat-0706/leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/venkat-0706/leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
