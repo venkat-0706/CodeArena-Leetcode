@@ -1076,6 +1076,7 @@ https://leetcode.com/submissions/#/1
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/venkat-0706/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/venkat-0706/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -1123,6 +1124,7 @@ https://leetcode.com/submissions/#/1
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/venkat-0706/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/venkat-0706/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
@@ -1136,6 +1138,7 @@ https://leetcode.com/submissions/#/1
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/venkat-0706/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/venkat-0706/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/venkat-0706/leetcode/tree/master/0684-redundant-connection) |
