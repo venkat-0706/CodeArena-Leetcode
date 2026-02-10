@@ -461,6 +461,7 @@ https://leetcode.com/submissions/#/1
 | [3640-trionic-array-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/venkat-0706/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/venkat-0706/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/venkat-0706/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/venkat-0706/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -535,6 +536,7 @@ https://leetcode.com/submissions/#/1
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/venkat-0706/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/venkat-0706/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/venkat-0706/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/venkat-0706/leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/venkat-0706/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Divide and Conquer
@@ -549,6 +551,7 @@ https://leetcode.com/submissions/#/1
 | [0948-sort-an-array](https://github.com/venkat-0706/leetcode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/venkat-0706/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -1063,6 +1066,7 @@ https://leetcode.com/submissions/#/1
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/venkat-0706/leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/venkat-0706/leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/venkat-0706/leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/venkat-0706/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Enumeration
 |  |
@@ -1246,6 +1250,7 @@ https://leetcode.com/submissions/#/1
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/venkat-0706/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3454-separate-squares-ii](https://github.com/venkat-0706/leetcode/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Interactive
 |  |
 | ------- |
