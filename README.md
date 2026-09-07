@@ -130,6 +130,7 @@ https://leetcode.com/submissions/#/1
 | [0761-special-binary-string](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/venkat-0706/leetcode/tree/master/0812-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/venkat-0706/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/venkat-0706/leetcode/tree/master/0952-word-subsets) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/venkat-0706/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -802,6 +803,7 @@ https://leetcode.com/submissions/#/1
 | [0788-rotated-digits](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/venkat-0706/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/venkat-0706/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/venkat-0706/leetcode/tree/master/1013-fibonacci-number) |
