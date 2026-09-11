@@ -523,6 +523,7 @@ https://leetcode.com/submissions/#/1
 | [3454-separate-squares-ii](https://github.com/venkat-0706/leetcode/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3483-alternating-groups-ii](https://github.com/venkat-0706/leetcode/tree/master/3483-alternating-groups-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/venkat-0706/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -642,6 +643,7 @@ https://leetcode.com/submissions/#/1
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/venkat-0706/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/venkat-0706/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/venkat-0706/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3483-unique-3-digit-even-numbers](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/venkat-0706/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -1006,6 +1008,7 @@ https://leetcode.com/submissions/#/1
 | [1197-parsing-a-boolean-expression](https://github.com/venkat-0706/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/venkat-0706/leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1378,6 +1381,7 @@ https://leetcode.com/submissions/#/1
 | [2870-longest-alternating-subarray](https://github.com/venkat-0706/leetcode/tree/master/2870-longest-alternating-subarray) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/venkat-0706/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3483-unique-3-digit-even-numbers](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/venkat-0706/CodeArena-Leetcode/tree/master/3713-longest-balanced-substring-i) |
